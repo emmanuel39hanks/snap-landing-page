@@ -1,8 +1,8 @@
 # Frontend Mentor - Snap Landing Page Intro section with dropdown navigation
 
-This is a solution to the [Manage Landing Page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/intro-section-with-dropdown-navigation-ryaPetHE5). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Snap Landing Page Intro section with dropdown navigation challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/intro-section-with-dropdown-navigation-ryaPetHE5). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-![Design preview for the Manage landing page coding challenge](./design/desktop-preview.jpg)
+![Design preview for the Snap Landing Page coding challenge](./design/desktop-preview.jpg)
 
 
 ### Links
